@@ -13,4 +13,4 @@
 ### Demo Screeshots
 
 <img src="https://github.com/SrijanGulati36/Tasky-Project/blob/master/readme-images/Demo-1.png" />
-<img src="https://github.com/SrijanGulati36/Keofi_Coffee_Station/blob/main/readme-images/demo-2.png" />
+<img src="https://github.com/SrijanGulati36/Tasky-Project/blob/master/readme-images/Demo-2.png" />
